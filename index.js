@@ -41,7 +41,7 @@ Combine the filter and map methods to perform the following tasks:
 
 Q5) Filter the numbers that are greater than or equal to 20 and then square each of them.
 Q6) Filter the numbers that are divisible by 5 and then multiply each of them by 3.
-********************************************************************/
+*********************************************************************/
 
 const resultq5 = numbers.filter((num) => {
   return num >= 25;
